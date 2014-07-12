@@ -1,25 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>
-      Activity Calendar
-    </title>
-    <link rel="stylesheet" type="text/css" href="../css/main.css" />
-  </head>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
   
-  <body id="chapters-index">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Contact Us</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/main.css" /></head><body id="chapters-index">
     <div id="page-wrap">
       <div id="main-header">
       </div>
       <div id="side-nav">
     	<h2>
-          Activity Calendar
+          Contact Us
       </h2>
       <ul>
-         <li>
-          <a href="../OurCity/OurCityMain.html">
-            Our City
+        <li>
+          <a href="../UpcomingEvents/UpcomingMain.html">
+            Upcoming Events
           </a>
         </li>
                 <li>
@@ -48,15 +45,17 @@
   </div>
   <div id="content">
     <p>
-      Holding
+      Coming Soon!
     </p>
+    <p>
+            <a href="../MockUps/MockUpsMain.html">Mockups</a>   
+          </p>
   </div>
   </div>
   
   <script>
     window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
   </script>
-  <script type="text/javascript" src="js/main.js" >
+  <script type="text/javascript" src="js/main.js">
   </script>
-  </body>
-</html>
+  </body></html>

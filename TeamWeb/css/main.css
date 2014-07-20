@@ -32,7 +32,6 @@ li {
 }
 #header {
   padding: 20px;
-  background: transparent url(../img/journal4.jpg) no-repeat scroll 0%;
   overflow: hidden;
   color: #ffffff;
   font-family: Georgia,serif;
@@ -72,7 +71,9 @@ li {
   width: 1000px;
 }
 #main-header {
+	padding: 45px;
   background-color: DarkGreen;
+  background: transparent url(../pic/header.jpg) no-repeat scroll 0%;
   float: left;
   height: 110px;
   width: 100%;
@@ -85,7 +86,7 @@ li {
   background-color: DarkSeaGreen;
   float: left;
   font-size: 15px;
-  width: 200px;
+  width: 203px;
   min-height: 500px;
 }
 #side-nav h2 {
@@ -99,7 +100,7 @@ li {
 }
 #content {
   padding: 20px;
-  float: right;
-  width: 700px;
+  float: left;
+  width: 670px;
   min-height: 500px;
 }

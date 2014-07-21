@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Demographics</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/main.css" /></head><body id="chapters-index">
+    <div id="page-wrap">
+      <div id="main-header">
+      </div>
+      <div id="side-nav">
+    	<h2>
+          Demographics
+      </h2>
+      <ul>
+         <li>
+          <a href="../OurCity/OurCityMain.html">
+            Our City
+          </a>
+        </li>
+                <li>
+          <a href="../ActivityCalendar/ActivityMain.html">
+            Activity Calendar
+          </a>
+        </li><li>
+          <a href="../CityMaps/CityMaps.html">
+            City Maps
+          </a>
+        </li>
+                <li>
+          <a href="../ContactUs/ContactMain.html">
+            Contact Us
+          </a>
+        </li>
+        <br />
+        <br />
+        <li>
+          <a href="../Index.html">
+            Home
+          </a>
+        </li>
+      </ul>
+  </div>
+  <div id="content">
+    <p>
+       </p>
+    <p>Census 2000 Demographics</p>
+<p><br />
+</p>
+<p>
+    Total Population 	City of Kelsey 	Northwest Valley County:</p>
+
+    <table border="1" width="200">
+      <tbody><tr>
+        <td>2000</td>
+        <td> 625,233</td>
+        <td> 739,289</td>
+      </tr>
+      <tr>
+        <td>1990</td>
+        <td>613,567</td>
+        <td>725,495</td>
+      </tr>
+      <tr>
+        <td>1980</td>
+        <td>602,810</td>
+        <td>712,776</td>
+      </tr>
+      <tr>
+        <td>1970</td>
+        <td>650,886</td>
+        <td>769,622</td>
+      </tr>
+    </tbody></table>
+    <p>
+    </p>
+
+<p><br />
+</p>
+<p>Population by Age Group: </p>
+
+<table border="1" width="200">
+  <tbody><tr>
+    <td>Age 5 to 19</td>
+    <td> 141,302</td>
+  </tr>
+  <tr>
+    <td>Age 20 to 34 </td>
+    <td>156,933</td>
+  </tr>
+  <tr>
+    <td>Age 35 to 54</td>
+    <td>	165,061</td>
+  </tr>
+  <tr>
+    <td>Age 55 to 64</td>
+    <td>46,267</td>
+  </tr>
+  <tr>
+    <td>Age 65 &amp; over</td>
+    <td>70, 651</td>
+  </tr>
+</tbody></table>
+
+<p>Median Age: 32 years <br />
+</p>
+<p><br />
+</p>
+<p>
+  Population by Gender:<br />
+o	Male:	296,986 <br />
+    o	Female: 328,247 </p>
+
+<blockquote>
+  
+</blockquote>
+
+<p>Educational Attainment for 25 years and	over High School graduate or higher: 72.7% <br />
+  Bachelor's degree or higher:	22.9%</p>
+<p />
+<p>&nbsp;</p>
+    
+<p style="text-align: left;"><img style="width: 357px; height: 277px;" alt="" src="../pic/Secondary%20Page_Image%202.JPG" /><br />
+</p>
+<a href="https://www.google.com/maps">gle Maps </a></div> </div>
+    
+  
+  
+  
+  <script>
+    window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
+  </script>
+  <script type="text/javascript" src="js/main.js">
+  </script>
+  </body></html>

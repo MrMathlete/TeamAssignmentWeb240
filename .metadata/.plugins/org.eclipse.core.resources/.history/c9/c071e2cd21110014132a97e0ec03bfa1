@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+	<head>
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>City Maps</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/main.css" />
+    
+        <style>
+      #map_canvas {
+        width: 400px;
+        height: 300px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+      function initialize() {
+        var map_canvas = document.getElementById('map_canvas');
+        var map_options = {
+          center: new google.maps.LatLng(44.5403, -78.5463),
+          zoom: 14,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(map_canvas, map_options)
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script> 
+    
+    </head>
+    
+    <body id="chapters-index">
+<div style="text-align: center;">
+    </div>
+<div id="page-wrap">
+      <div id="main-header">
+      </div>
+      <div id="side-nav">
+    	<h2>
+          City Maps
+      </h2>
+      <ul>
+             	<li>
+          <a href="../ActivityCalendar/ActivityMain.html">
+            Activity Calendar
+          </a>
+        </li>
+        <li>
+          <a href="../CityMaps/CityMaps.html">
+            City Maps
+          </a>
+        </li>
+                          <li>
+          <a href="../ContactUs/ContactMain.html">
+            Contact Us
+          </a>
+        </li>
+          <li>
+            <a href="../Demographics/Demographics.html">
+              Demographics
+            </a>
+          </li>
+         <li>
+          <a href="../OurCity/OurCityMain.html">
+            Our City
+          </a>
+        </li>
+       
+        <br />
+        <br />
+        <li>
+          <a href="../Index.html">
+            Home
+          </a>
+        </li>
+      </ul>
+  </div>
+  <div id="content">  	
+Come visit us!
+
+    <div id="map_canvas"></div>
+    
+   </br>
+   
+    
+    <a href="https://www.google.com/maps/place/Kelsey,+MN+55724/@47.1538885,-92.599444,15z/data=%213m1%214b1%214m2%213m1%211s0x52afe11af70a1de3:0x77aac5712d0d9c54">
+	<img style="border: 0px solid; width: 164px; height: 29px;" alt="Get Directions" src="../pic/rsz_getdirections.jpg" />
+	</a>
+    
+  </div>
+  
+  <script>
+    window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>');
+  </script>
+  <script type="text/javascript" src="js/main.js">
+  </script>
+  </body></html>

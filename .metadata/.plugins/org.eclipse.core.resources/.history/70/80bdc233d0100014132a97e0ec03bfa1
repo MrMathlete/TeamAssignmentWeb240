@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Welcome</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <meta charset="UTF-8" />
+    <meta name="description" content="Woolf Crier, journal, family, journal" />
+    <meta name="keywords" content="HTML,CSS,JavaScript" />
+    <meta name="author" content="James Bandy" /></head><body id="chapters-index">
+    <div id="page-wrap">
+      <div id="main-header">
+      </div>
+      <div id="side-nav">
+    	<h2>
+          Welcome
+        </h2>
+        <ul>
+          <li>
+            <a href="OurCity/OurCityMain.html">
+              Our City
+            </a>
+          </li>
+          <li>
+            <a href="ActivityCalendar/ActivityMain.html">
+              Activity Calendar
+            </a>
+          </li>
+          <li>
+            <a href="Demographics/Demographics.html">
+              Demographics
+            </a>
+          </li>
+          <li>
+            <a href="ContactUs/ContactMain.html">
+              Contact Us
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="content">
+        <p>
+Kelsey is nestled in the hills of the Northwest Valley. With a
+population of 625,000 Kelsey offers the amenities of the big city, but
+still retains its small town charm.<br />
+<br />
+Kelsey is an earth-friendly community that promotes a better quality of
+life through service, environmental awareness and healthy lifestyles.
+Kelsey’s organic farms and restaurant supply the freshest foods in the
+region. Our historic downtown district offers a wide array of shopping
+and dining experiences. Kelsey also boasts one of the best school
+districts in the state.Image of City of Kelsey logo that reads a better
+life...City of Kelsey and includes two hands around a floating leaf.<br />
+<br />
+Kelsey, you will find spectacular master-planned communities from some
+of the top home builders in the country. Many of them offer country
+clubs, parks and golf courses surrounding one of the most pristine
+lakes in the region. For the adventurous types, there are several
+hiking trails that wind through the surrounding hills. Among these
+amenities and our established communities, you will find housing to
+suit everyone from the young family to the retired.<br />
+<br />
+If you are looking to start a business, relocate or expand a current
+one, Kelsey offers some of the best corporate sites in the region.
+        </p>
+      </div>
+    </div>
+    
+    <script>
+      window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
+    </script>
+    <script type="text/javascript" src="js/main.js">
+    </script>
+  </body></html>

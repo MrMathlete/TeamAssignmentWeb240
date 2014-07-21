@@ -1,10 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>
+      City Maps
+    </title>
+    <link rel="stylesheet" type="text/css" href="../css/main.css" />
+  </head>
   
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>City Maps</title>
-    
-    <link rel="stylesheet" type="text/css" href="../css/main.css" /></head><body id="chapters-index">
+  <body id="chapters-index">
     <div id="page-wrap">
       <div id="main-header">
       </div>
@@ -22,7 +26,7 @@
           <a href="../ActivityCalendar/ActivityMain.html">
             Activity Calendar
           </a>
-        </li><li>
+        <li>
           <a href="../CityMaps/CityMaps.html">
             City Maps
           </a>
@@ -43,15 +47,11 @@
   </div>
   <div id="content">
     <p>
-       </p>
-    <p>Census 2000 Demographics</p>
-<p><br />
-</p>
-<p>
-    Total Population 	City of Kelsey 	Northwest Valley County:</p>
-
-    <table border="1" width="200">
-      <tbody><tr>
+       <p><img src="../pic/Secondary Page_Image 1.JPG" width="356" height="102" /></p>
+    <p>Census 2000 Demographics<br />
+    Total Population 	City of Kelsey 	Northwest Valley County</p>
+    <table width="200" border="1">
+      <tr>
         <td>2000</td>
         <td> 625,233</td>
         <td> 739,289</td>
@@ -71,13 +71,13 @@
         <td>650,886</td>
         <td>769,622</td>
       </tr>
-    </tbody></table>
-    <p>
+    </table>
+    <p><br />
     </p>
-
-<p>Population by Age Group: </p>
-<table border="1" width="200">
-  <tbody><tr>
+<p><img src="../pic/" width="400" height="311" align="right" /></p>
+<p>Population by Age Group </p>
+<table width="200" border="1">
+  <tr>
     <td>Age 5 to 19</td>
     <td> 141,302</td>
   </tr>
@@ -97,36 +97,34 @@
     <td>Age 65 &amp; over</td>
     <td>70, 651</td>
   </tr>
-</tbody></table>
-
-<p>Median Age: 32 years <br />
-</p>
+</table>
 <p><br />
 </p>
-<p>
-  Population by Gender:<br />
-o	Male:	296,986 <br />
-    o	Female: 328,247 </p>
-
+<p>Median Age: 32 years <br />
+  Population by Gender  </p>
 <blockquote>
-  
+  <p><br />
+    o	Male-	296,986 <br />
+    o	Female- 328,247 </p>
 </blockquote>
-
-<p>Educational Attainment for 25 years and	over High School graduate or higher: 72.7% <br />
-  Bachelor's degree or higher:	22.9%</p>
-<p></p>
 <p>&nbsp;</p>
-    
-<p style="text-align: left;"><img style="width: 357px; height: 277px;" alt="" src="../pic/Secondary%20Page_Image%202.JPG" /><br />
-</p>
-<a href="https://www.google.com/maps">gle Maps </a></div> </div>
-    
-  
-  
+<p>Educational Attainment for population 25 years and	over High School graduate or higher:- 72.7% <br />
+  Bachelor's degree or higher: -	22.9% </p>
+<p>Based on both evaluation and mockups suggestions for upgrading were defined. </p>
+<p>&nbsp;</p>
+    <p><img src="../pic/Secondary Page Image 3.JPG" width="82" height="88" /> </p>
+    <p>Google Maps <br />
+    </p>
+  </div>
+<a href="https://www.google.com/maps">Google Maps </a> </div>
+    </p>
+  </div>
+  </div>
   
   <script>
     window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')
   </script>
-  <script type="text/javascript" src="js/main.js">
+  <script type="text/javascript" src="js/main.js" >
   </script>
-  </body></html>
+  </body>
+</html>

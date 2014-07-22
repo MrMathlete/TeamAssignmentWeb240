@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Our City</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/main.css" /></head><body id="chapters-index">
+    <div id="page-wrap">
+      <div id="main-header">
+      </div>
+      <div id="side-nav">
+    	<h2>
+          Our City
+      </h2>
+      <ul>
+             	<li>
+          <a href="../ActivityCalendar/ActivityMain.html">
+            Activity Calendar
+          </a>
+        </li>
+        <li>
+          <a href="../CityMaps/CityMaps.html">
+            City Maps
+          </a>
+        </li>
+                          <li>
+          <a href="../ContactUs/ContactMain.html">
+            Contact Us
+          </a>
+        </li>
+          <li>
+            <a href="../Demographics/Demographics.html">
+              Demographics
+            </a>
+          </li>
+         <li>
+          <a href="../OurCity/OurCityMain.html">
+            Our City
+          </a>
+        </li>
+       
+        <br />
+        <br />
+        <li>
+          <a href="../Index.html">
+            Home
+          </a>
+        </li>
+      </ul>
+  </div>
+  <div id="content">  	
+The City of Kelsey was founded in 1932 by M. Kelsey, who quickly realized
+that the sprawling fields, the pristine lake and the rolling hills
+provided the perfect landscape for farming and raising a family. His
+vision was to preserve the natural resources of the land and maintain a
+close-knit community.<br />
+<br />
+Kelsey’s roots are grounded in a history of agriculture and
+self-sufficiency. Our earliest citizens lived entirely off the land.
+Even today, the foundation of our city is reflected in our organic
+gardens, orchards and strong sense of community. Our respect for the
+land and our completely organic fruits and vegetables have given our
+community nationwide visibility.<br />
+<br />
+In the past three decades, Kelsey’s small businesses and industries
+have matured tremendously, and the population continues to grow. In
+honor of our city’s traditions and founder, we never lose sight of our
+community and do everything we can to preserve the natural resources
+that have been granted here in the beautiful City of Kelsey.</div>
+  </div>
+  
+  <script>
+    window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>');
+  </script>
+  <script type="text/javascript" src="js/main.js">
+  </script>
+  </body></html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>
+      Activity Calendar
+    </title>
+    <link rel="stylesheet" type="text/css" href="../css/main.css" />
+  </head>
+  
+  <body id="chapters-index">
+    <div id="page-wrap">
+      <div id="main-header">
+      </div>
+      <div id="side-nav">
+    	<h2>
+          Activity Calendar
+      </h2>
+      <ul>
+               	<li>
+          <a href="../ActivityCalendar/ActivityMain.html">
+            Activity Calendar
+          </a>
+        </li>
+        <li>
+          <a href="../CityMaps/CityMaps.html">
+            City Maps
+          </a>
+        </li>
+                          <li>
+          <a href="../ContactUs/ContactMain.html">
+            Contact Us
+          </a>
+        </li>
+          <li>
+            <a href="../Demographics/Demographics.html">
+              Demographics
+            </a>
+          </li>
+         <li>
+          <a href="../OurCity/OurCityMain.html">
+            Our City
+          </a>
+        </li>
+       
+        <br />
+        <br />
+        <li>
+          <a href="../Index.html">
+            Home
+          </a>
+        </li>
+      </ul>
+  </div>
+  <div id="content">
+    <p>
+      <iframe src="https://www.google.com/calendar/embed?title=Activity%20Calendar&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=email.phoenix.edu_k3jb8tdrsgt2pnojdfkij6gc98%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="670" height="500" frameborder="0" scrolling="no">
+      	      </iframe>
+    </p>
+  </div>
+  </div>
+  
+  <script>
+    window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>');
+  </script>
+  <script type="text/javascript" src="js/main.js" >
+  </script>
+  </body>
+</html>
